@@ -66,6 +66,24 @@ Architecture diagram will be added soon.
 
 ## Project Status
 
+## Screenshots
+
+### Architecture
+![Architecture](images/architecture.png)
+
+### Grafana Dashboard
+![Grafana Dashboard](images/grafana-dashboard.png)
+
+### Prometheus Targets
+![Prometheus Targets](images/prometheus-targets.png)
+
+### Horizon Dashboard
+![Horizon Dashboard](images/horizon-dashboard.png)
+
+### Alertmanager
+![Alertmanager](images/alertmanager.png)
+
+
 Completed ✅
 
 ---
